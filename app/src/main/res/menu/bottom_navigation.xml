@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_home"
+        android:title="Home"
+        android:iconTintMode="@color/white"
+        android:icon="@drawable/ic_launcher_home_1"
+        />
+    <item
+        android:id="@+id/item_list_makanan"
+        android:title="Foods"
+        android:iconTint="@color/white"
+        android:icon="@drawable/ic_launcher_food"
+        />
+    <item
+        android:id="@+id/item_list_minuman"
+        android:title="Drink"
+        android:iconTint="@color/white"
+        android:icon="@drawable/ic_launcher_drink"
+        />
+    <item
+        android:id="@+id/item_list_gallery"
+        android:title="Gallery"
+        android:iconTint="@color/white"
+        android:icon="@drawable/ic_launcher_collection"
+        />
+    <item
+        android:id="@+id/item_list_info"
+        android:title="Info"
+        android:iconTint="@color/white"
+        android:icon="@drawable/ic_launcher_about"
+        />
+
+</menu>

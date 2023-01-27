@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/OnlineShop2/app/src/main/res/layout/a.xml" value="0.2418478260869565" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/OnlineShop2/app/src/main/res/layout/activity_main.xml" value="0.2418478260869565" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/OnlineShop2/app/src/main/res/layout/fragment_form_kategori.xml" value="0.23324275362318841" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/OnlineShop2/app/src/main/res/layout/fragment_form_produk.xml" value="0.2" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/OnlineShop2/app/src/main/res/layout/fragment_home.xml" value="0.12708333333333333" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/OnlineShop2/app/src/main/res/layout/fragment_kategori.xml" value="0.23324275362318841" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/OnlineShop2/app/src/main/res/layout/fragment_kategori_form.xml" value="0.23324275362318841" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/OnlineShop2/app/src/main/res/layout/fragment_produk.xml" value="0.23324275362318841" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/OnlineShop2/app/src/main/res/layout/item_produk.xml" value="0.23324275362318841" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/OnlineShop2/app/src/main/res/layout/item_row.xml" value="0.23324275362318841" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/OnlineShop2/app/src/main/res/menu/bottom_navigation.xml" value="0.25" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/Online_Shop_Fajardika/app/src/main/res/layout/activity_main.xml" value="0.20380434782608695" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/Online_Shop_Fajardika/app/src/main/res/layout/fragment_form_kategori.xml" value="0.20923913043478262" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/Online_Shop_Fajardika/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/Online_Shop_Fajardika/app/src/main/res/layout/fragment_kategori.xml" value="0.22418478260869565" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/Online_Shop_Fajardika/app/src/main/res/layout/fragment_kategori_form.xml" value="0.20923913043478262" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/Online_Shop_Fajardika/app/src/main/res/layout/fragment_produk.xml" value="0.22418478260869565" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/Online_Shop_Fajardika/app/src/main/res/layout/item_kategori.xml" value="0.20380434782608695" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/Online_Shop_Fajardika/app/src/main/res/layout/item_produk.xml" value="0.20923913043478262" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/Online_Shop_Fajardika/app/src/main/res/layout/item_row.xml" value="0.22418478260869565" />
+        <entry key="..\:/Pemrograman Mobile/Pertemuan 6/Online_Shop_Fajardika/app/src/main/res/menu/bottom_navigation.xml" value="0.25" />
+        <entry key="..\:/Project_Aplikasi_Mobile/1/Seblak/app/src/main/res/layout/activity_main.xml" value="0.17028985507246377" />
+        <entry key="..\:/Project_Aplikasi_Mobile/1/Seblak/app/src/main/res/layout/fragment_home.xml" value="0.17028985507246377" />
+        <entry key="..\:/Project_Aplikasi_Mobile/1/Seblak/app/src/main/res/layout/fragment_makanan.xml" value="0.1644021739130435" />
+        <entry key="..\:/Project_Aplikasi_Mobile/1/Seblak/app/src/main/res/layout/fragment_minuman.xml" value="0.1" />
+        <entry key="..\:/Project_Aplikasi_Mobile/1/Seblak/app/src/main/res/layout/fragment_pengguna.xml" value="0.1585144927536232" />
+        <entry key="..\:/Project_Aplikasi_Mobile/1/Seblak/app/src/main/res/layout/fragment_produk.xml" value="0.1" />
+        <entry key="..\:/Project_Aplikasi_Mobile/1/Seblak/app/src/main/res/layout/item_makanan.xml" value="0.1644021739130435" />
+        <entry key="..\:/Project_Aplikasi_Mobile/1/Seblak/app/src/main/res/layout/item_minuman.xml" value="0.17028985507246377" />
+        <entry key="..\:/Project_Aplikasi_Mobile/1/Seblak/app/src/main/res/layout/item_pengguna.xml" value="0.1585144927536232" />
+        <entry key="..\:/Project_Aplikasi_Mobile/1/Seblak/app/src/main/res/layout/item_row.xml" value="0.17028985507246377" />
+        <entry key="..\:/Project_Aplikasi_Mobile/1/Seblak/app/src/main/res/menu/bottom_navigation.xml" value="0.21927083333333333" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/drawable/ic_baseline_image.xml" value="0.20092592592592592" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/drawable/ic_launcher_about.xml" value="0.20092592592592592" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20092592592592592" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/drawable/ic_launcher_collection.xml" value="0.20092592592592592" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/drawable/ic_launcher_drink.xml" value="0.20092592592592592" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/drawable/ic_launcher_home_1.xml" value="0.20092592592592592" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/drawable/ic_launcher_info.xml" value="0.20092592592592592" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/drawable/rounded_button.xml" value="0.18425925925925926" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/layout/activity_main.xml" value="0.13496376811594202" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/layout/activity_main1.xml" value="0.1693840579710145" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/layout/fragment_about.xml" value="0.1015625" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/layout/fragment_galeri.xml" value="0.11277173913043478" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/layout/fragment_gallery.xml" value="0.1272644927536232" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/layout/fragment_home.xml" value="0.176" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/layout/fragment_info.xml" value="0.2" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/layout/fragment_info2.xml" value="0.12047101449275362" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/layout/fragment_koleksi.xml" value="0.1" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/layout/fragment_makanan.xml" value="0.1" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/layout/fragment_minuman.xml" value="0.1" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/layout/grid_layout.xml" value="0.1693840579710145" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/layout/item_gallery.xml" value="0.1272644927536232" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/layout/item_koleksi.xml" value="0.1062058526740666" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/layout/item_makanan.xml" value="0.33647058823529413" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/layout/item_minuman.xml" value="0.1" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/layout/item_row.xml" value="0.15443840579710144" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/menu/bottom_navigation.xml" value="0.21927083333333333" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.18425925925925926" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran - Copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.18425925925925926" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1925925925925926" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/drawable/ic_baseline_assignment.xml" value="0.1925925925925926" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/drawable/ic_baseline_image.xml" value="0.1925925925925926" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/drawable/ic_home.xml" value="0.1925925925925926" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1925925925925926" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/drawable/ic_launcher_foods.xml" value="0.1" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1925925925925926" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/drawable/ic_launcher_home.xml" value="0.1925925925925926" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/drawable/ic_launcher_home_1.xml" value="0.121875" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/drawable/ic_launcher_info_1.xml" value="0.121875" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/drawable/ic_list.xml" value="0.1925925925925926" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/drawable/ic_menu.xml" value="0.1925925925925926" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/drawable/rounded_button.xml" value="0.18333333333333332" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/layout/activity_main.xml" value="0.14764492753623187" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/layout/fragment_home.xml" value="0.2384393063583815" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/layout/fragment_home_2.xml" value="0.11911231884057971" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/layout/fragment_info.xml" value="0.264" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/layout/fragment_makanan.xml" value="0.12681159420289856" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/layout/fragment_menu.xml" value="0.14764492753623187" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/layout/fragment_minuman.xml" value="0.12681159420289856" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/layout/fragment_profil.xml" value="0.1062058526740666" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/layout/item_makanan.xml" value="0.2" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/layout/item_menu.xml" value="0.37789203084832906" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/layout/item_minuman.xml" value="0.12681159420289856" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/layout/item_row.xml" value="0.14764492753623187" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/menu/bottom_home.xml" value="0.1" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/menu/bottom_navigation.xml" value="0.21927083333333333" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121875" />
+        <entry key="..\:/Project_Aplikasi_Mobile/Banaran/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.121875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
